@@ -1,0 +1,80 @@
+{
+  "banner": {
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "breadcrumbLast": "Your first source for financing...",
+    "heading1": "Your first source",
+    "headingHighlited": "for financing",
+    "heading2_part1": "and investment",
+    "heading2_part2": "insights",
+    "meta": {
+      "author": "Raqamyah",
+      "date": "18 July 2024",
+      "time": "10 Min"
+    }
+  },
+
+  "growth": {
+    "heading": "Your first source for financing and investment insights",
+    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "paragraph2": "To better support our partner ecosystem, we’ve enhanced our co-branding feature by enabling customers and partners to self-serve, making it easier than ever to create a personalized platform experience that reflects your brand.",
+    "paragraph3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "paragraph4": "To better support our partner ecosystem, we’ve enhanced our co-branding feature by enabling customers and partners to self-serve, making it easier than ever to create a personalized platform experience that reflects your brand.",
+    "imageAlt": "Man growing investment chart",
+    "tableHeading": "Table of Contents:",
+    "tableList": [
+      "What Are Incoterms?",
+      "Reasons to adopt Incoterms in Global Trade",
+      "What do Incoterms define?",
+      "The 3 Most Common Incoterms You Should Learn About",
+      "Other Incoterms to Acknowledge",
+      "Incoterms related to Sea and Inland shipping"
+    ],
+    "share": "Share Post"
+  },
+  "trade": {
+    "heading": "Reasons to adopt Incoterms in Global Trade",
+    "subheading": "Incoterms are essential in global trade for several reasons. They:",
+    "checklist": [
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing."
+    ],
+    "imageAlt": "Incoterms Growth Illustration",
+    "subTitle": "EXW – Ex-Works or Ex-Warehouse",
+    "description": "EXW, or Ex-Works, is one of the most basic Incoterms. In an EXW agreement, the seller makes the goods available at their premises or another designated location. The buyer is responsible for all transportation costs, customs clearance, and assumes the risk from the moment the goods are handed over. The seller's obligation is fulfilled once the goods are made available."
+  },
+  "cost": {
+    "heading": "Reasons to adopt Incoterms in Global Trade",
+    "subheading": "Incoterms are essential in global trade for several reasons. They:",
+    "checklist": [
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing.",
+      "Provide a common language by establishing a shared understanding between buyers and sellers, enabling smooth communication and reducing."
+    ],
+    "imageAlt": "Cost & Trade Visual",
+    "para1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "para2": "To better support our partner ecosystem, we’ve enhanced our co-branding feature by enabling customers and partners to self-serve, making it easier than ever to create a personalized platform experience that reflects your brand",
+    "quote": "“To make every import/export as smooth and cost-effective as possible, while ensuring an unparalleled customer experience. We know that the world of import-export can becomplex and full of challenges. This is why we do not we don’t just offer you logistical”",
+    "para3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "sharePost": "Share Post"
+  },
+
+  "related": {
+    "heading": "Related blog articles",
+    "button": "View More",
+    "card1Heading": "FINANCIAL SOLUTION",
+    "card1Time": "6 MIN",
+    "card1Description": "5 Steps to Help SMEs Secure Funding Successfully",
+    "card2Heading": "FINANCIAL SOLUTION",
+    "card2Time": "6 MIN",
+    "card2Description": "The Benefits of Crowd-lending: How It Can Support Your Business Growth",
+    "card3Heading": "FINANCIAL SOLUTION",
+    "card3Time": "6 MIN",
+    "card3Description": "Investor's Guide: How to Choose the Right Investment Opportunity"
+  }
+}

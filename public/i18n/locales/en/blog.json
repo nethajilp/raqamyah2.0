@@ -1,0 +1,35 @@
+{
+    "banner": {
+      "title": "FINANCIAL SOLUTION",
+      "titleTime":"6 MIN",
+      "heading1": "Your first source for",
+      "headingHighlited":"financing",
+      "heading2": "and investment insights",
+
+      "description": "Discover the latest articles and tips on crowdfunding, investing, and business growth. Empowering you with knowledge to make smarter financial decisions",
+      "button": "Browse articles now"
+    },
+    "blog": {
+    "title": "Blogs",
+    "discription": "Explore the latest blog articles",
+    "blog1Heading": "FINANCIAL SOLUTION",
+    "blog1Time": "6 min",
+    "blog1Description": "5 Steps to Help SMEs Secure Funding Successfully",
+    "blog2Heading": "FINANCIAL SOLUTION",
+    "blog2Time": "6 min",
+    "blog2Description": "The Benefits of Crowd-lending: How It Can Support Your Business Growth",
+    "blog3Heading": "FINANCIAL SOLUTION",
+    "blog3Time": "6 min",
+    "blog3Description": "Investor's Guide: How to Choose the Right Investment Opportunity",
+    "blog4Heading": "FINANCIAL SOLUTION",
+    "blog4Time": "6 min",
+    "blog4Description": "How Does the Raqamyah App Simplify Managing Your Investments?",
+    "blog5Heading": "FINANCIAL SOLUTION",
+    "blog5Time": "6 min",
+    "blog5Description": "Everything You Need to Know About Sharia-Compliant Financing",
+    "blog6Heading": "FINANCIAL SOLUTION",
+    "blog6Time": "6 min",
+    "blog6Description": "Top Tips for Effectively Managing Your Business's Cash Flow",
+    "button":"VIEW MORE"
+  }
+}

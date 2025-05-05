@@ -1,0 +1,39 @@
+{
+  "description": "Simplify your payments so you can focus on growing your business.",
+  "placeholder": "Enter your email",
+
+  "subscribe": "Subscribe",
+  "getAppNow": "Get the App now",
+  "company": "Company",
+  "links": "Links",
+  "locations": "Locations",
+  "companyLinksList": [
+    { "name": "About us", "path": "/en/aboutus" },
+    { "name": "For Business", "path": "/en/borrowers" },
+    { "name": "For Investors", "path": "/en/investors" },
+    { "name": "Statistics", "path": "/en/statistics" },
+    { "name": "Contact US", "path": "/en/contactus" },
+    { "name": "Legal and Compliance", "path": "/en/legalAndCompliance" }
+  ],
+  "linksList": [
+    "Learn more as a Financer",
+    "Learn more as a Finance (Debtor)",
+    "Frequently Asked Questions",
+    "Consumer protection principle and rules",
+    "Complaints and suggestions"
+  ],
+  "locationsDetail": "Raqamyah Platform, 3252 Prince Muhammad Ibn Abd Al Aziz, Al Dugaither Commercial Center number 2, Al Olaya Riyadh 12244-6231",
+  "statements": {
+    "Q1": "Financial statement of 2024 Q1",
+    "Q2": "Financial statement of 2024 Q2",
+    "Q3": "Financial statement of 2024 Q3"
+  },
+  "Copyright": {
+    "part1": "Copyright Raqamyah@",
+    "part2": "All rights reserved."
+  },
+  "languageSelector": {
+    "english": "English",
+    "arabic": "العربية"
+  }
+}

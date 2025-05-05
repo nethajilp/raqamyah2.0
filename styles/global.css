@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Tajawal";
+  src: url("/assets/fonts/Tajawal-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("/assets/fonts/Tajawal-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmpleSoft";
+  src: url("/assets/fonts/AmpleSoftPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmpleSoft";
+  src: url("/assets/fonts/AmpleSoftPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+}
+body {
+  font-family: Tajawal; /* RTL */
+  direction: rtl;
+}
+
+[dir="ltr"] body {
+  font-family: AmpleSoft; /* LTR */
+  direction: ltr;
+}
+
+a{
+  text-decoration: none;
+
+}

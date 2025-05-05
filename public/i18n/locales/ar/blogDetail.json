@@ -1,0 +1,74 @@
+{
+  "banner": {
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "breadcrumbLast": "Your first source for financing...",
+    "heading1": "Your first source",
+    "headingHighlited": "for financing",
+    "heading2_part1": "and investment",
+    "heading2_part2": "insights",
+    "meta": {
+      "author": "Raqamyah",
+      "date": "18 July 2024",
+      "time": "10 Min"
+    }
+  },
+
+  "growth": {
+    "heading": "Your first source for financing and investment insights",
+    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+    "paragraph2": "To better support our partner ecosystem, we’ve enhanced our co-branding feature...",
+    "paragraph3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+    "paragraph4": "To better support our partner ecosystem, we’ve enhanced our co-branding feature...",
+    "imageAlt": "Man growing investment chart",
+    "tableHeading": "Table of Contents:",
+    "tableList": [
+      "What Are Incoterms?",
+      "Reasons to adopt Incoterms in Global Trade",
+      "What do Incoterms define?",
+      "The 3 Most Common Incoterms You Should Learn About",
+      "Other Incoterms to Acknowledge",
+      "Incoterms related to Sea and Inland shipping"
+    ],
+    "share": "Share Post"
+  },
+  "trade": {
+    "heading": "Reasons to adopt Incoterms in Global Trade",
+    "subheading": "Incoterms are essential in global trade for several reasons. They:",
+    "checklist": [
+      "Provide a common language between buyers and sellers.",
+      "Clarify responsibilities and reduce disputes.",
+      "Help calculate costs more accurately.",
+      "Enable better contract drafting.",
+      "Improve efficiency in global logistics."
+    ],
+    "imageAlt": "Incoterms Growth Illustration",
+    "subTitle": "EXW – Ex-Works or Ex-Warehouse",
+    "description": "EXW, or Ex-Works, is one of the most basic Incoterms..."
+  },
+  "cost": {
+    "heading": "Reasons to adopt Incoterms in Global Trade",
+    "subheading": "Incoterms are essential in global trade for several reasons. They:",
+    "checklist": ["Point one...", "Point two...", "... etc"],
+    "imageAlt": "Cost & Trade Visual",
+    "para1": "First paragraph text...",
+    "para2": "Second paragraph text...",
+    "quote": "To make every import/export as smooth and cost-effective as possible...",
+    "para3": "Final paragraph after the quote.",
+    "sharePost": "Share Post"
+  },
+
+  "related": {
+    "heading": "Related blog articles",
+    "button": "View More",
+    "card1Heading": "FINANCIAL SOLUTION",
+    "card1Time": "6 MIN",
+    "card1Description": "5 Steps to Help SMEs Secure Funding Successfully",
+    "card2Heading": "FINANCIAL SOLUTION",
+    "card2Time": "6 MIN",
+    "card2Description": "The Benefits of Crowd-lending: How It Can Support Your Business Growth",
+    "card3Heading": "FINANCIAL SOLUTION",
+    "card3Time": "6 MIN",
+    "card3Description": "Investor's Guide: How to Choose the Right Investment Opportunity"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "banner": {
+    "heading": "للمستثمرين",
+    "title": "رقمية، خطوتك الأولى نحو",
+    "highlighted": "استثمار ",
+    "titlec": " ناجح",
+    "description": "مع رقميّة، نفتح لك باب الاستثمار في فرص تمويل واعدة مع عوائد تصل إلى 18%. نربطك بالشركات المتميزة لتبدأ رحلتك الاستثمارية بكل ثقة وسهولة.",
+    "button": "ابدأ استثمارك الآن"
+  },
+  "client": {
+    "heading": "A Business community powered by Raqamyah",
+    "cards": [
+      {
+        "title": " 7.5 مليون ريال",
+        "description": "تمويل يصل إلى 7.5 مليون ريال"
+      },
+      {
+        "title": "مرخص من البنك السعودي المركزي",
+        "description": "رقميّة منصة مرخصة من البنك السعودي المركزي، لضمان تجربة استثمارية آمنة وشفافة"
+      },
+      {
+        "title": "  متوافق مع الشريعة الإسلامية",
+        "description": "استثمر بثقة وفق أحكام الشريعة الإسلامية واطمئن على توافق استثماراتك مع المبادئ الشرعية"
+      }
+    ]
+  },
+  "crowdFunding": {
+    "heading": " استثمر بالتمويل الجماعي  ",
+    "body": "التمويل الجماعي هو نموذج استثماري مبتكر يتيح لك المساهمة في تمويل الشركات الاستثنائية وتحقيق عوائد مدهشة. مع رقمية، تستثمر بثقة وشفافية في الشركات التي تحقق أرباحًا وإيرادات مستقرة.",
+    "button": "التمويل الجماعي"
+  },
+  "howItWorks": {
+    "heading": "كيف يعمل",
+    "subHeading": "3 خطوات سهلة للحصول على تمويلك",
+    "singup": {
+      "heading": "قدم طلبك الآن",
+      "description": "املأ طلب التمويل في دقائق عبر منصتنا الرقمية"
+    },
+    "rightOpportunity": {
+      "heading": "احصل على موافقتك",
+      "description": " نراجع طلبك سريعًا بناءً على معلوماتك المالية "
+    },
+    "investment": {
+      "heading": "استلم تمويلك",
+      "description": "عند الموافقة واكتمال تمويل الفرصة من قبل المستثمرين، سيتم تحويل المبلغ مباشرة إلى حسابك البنكي"
+    },
+    "button": "قدم طلب قرض"
+  },
+  "fuelyourgrowth": {
+    "heading": "انطلق بنموك من خلال التمويل الجماعي!",
+    "description": "في رقميّة، يزدهر المستثمرون والشركات معًا. يستمتع المستثمرون بفرص آمنة وذات نمو مرتفع، بينما يحصل طالبي التمويل على تمويل سريع بأسعار مرابحة منافسة.",
+    "button": "ابدأ رحلتك المالية"
+  },
+  "whyRaqamyah": {
+    "subHeading": "● أسباب لاختيار رقميّة",
+    "heading": "لماذا رقمية شريكك الأمثل للنجاح",
+    "features": [
+      {
+        "title": "شروط مرنة وميسرة",
+        "description": "نقدم شروط تمويل مرنة تتناسب مع احتياجات شركتك، مما يساعدك على تحقيق أهدافك دون تعقيدات"
+      },
+      {
+        "title": "عملية رقمية بالكامل",
+        "description": "من التقديم إلى استلام التمويل، تتم جميع الخطوات عبر منصتنا الرقمية بسهولة وسرعة، مما يوفر عليك الوقت والجهد"
+      },
+      {
+        "title": "تمويل متوافق مع الشريعة ومرخص من البنك المركزي",
+        "description": "حلول تمويلية شرعية ومرخصة تضمن الشفافية وراحة البال."
+      }
+    ]
+  },
+  "financingPrices": {
+    "financingRate": "معدل التمويل",
+    "detailsOfFinancingProductPrices": "تفاصيل أسعار المنتجات التمويلية",
+    "table": {
+      "headers": {
+        "product": "المنتج",
+        "annualPercentageRate": "معدل النسبة السنوي",
+        "administrativeFees": "الرسوم الإدارية"
+      },
+      "rows": [
+        {
+          "product": "تمويل الفواتير",
+          "annualPercentageRate": "11% - 13.5%",
+          "administrativeFees": "2% - 5%"
+        },
+        {
+          "product": "تمويل المخزون",
+          "annualPercentageRate": "2% - 5%",
+          "administrativeFees": "11% - 13.5%"
+        }
+      ]
+    },
+    "note": "ملاحظة",
+    "noteContent": "علماً بأن تكلفة التمويل لدى رقمية مرتبطة بالتقييم الائتماني للعميل ومدة ومبلغ التمويل وليست بناءً على المنتج، وللإيضاح الجدول أعلاه يوضح الرسوم التقريبية للمنصة حيث ممكن أن تتغير وفقا لأسعار السايبور المعتمدة."
+  },
+  "faq": {
+    "headingButton": "الأسئلة المتكررة",
+    "headingTitle": "كل ما تحتاج معرفته عن التمويل",
+    "data": [
+      {
+        "question": "ما هي شروط التأهل للحصول على التمويل؟",
+        "answer": "جميع حلولنا التمويلية متوافقة 100% مع الشريعة"
+      },
+      {
+        "question": "كم يستغرق الحصول على التمويل؟",
+        "answer": "You need to provide a CR, national ID, bank statements, and income documents."
+      },
+      {
+        "question": "هل التمويل متوافق مع الشريعة الإسلامية؟",
+        "answer": "The approval process usually takes 3-5 business days depending on the completeness of documents."
+      },
+      {
+        "question": "ما هي الرسوم المرتبطة بالتمويل؟",
+        "answer": "Borrowers can request loans from 3 to 24 months based on business needs."
+      },
+      {
+        "question": "هل يمكنني سداد التمويل مبكرًا؟",
+        "answer": "Late repayments may result in penalties or affect your credit profile; please contact our support if you're facing any issues."
+      },
+      {
+        "question": "كيف أبدأ؟",
+        "answer": "Late repayments may result in penalties or affect your credit profile; please contact our support if you're facing any issues."
+      }
+    ]
+  }
+}

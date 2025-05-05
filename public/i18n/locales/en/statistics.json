@@ -1,0 +1,98 @@
+{
+  "banner": {
+    "heading": "Statistics",
+    "title": "Invest or fund your SME on a success-driven platform.",
+    "description": "With Raqamyah, we provide the necessary funding to achieve your ambitions. Start today on a flexible financing journey, tailored to meet your needs."
+  },
+  "growthChart": {
+    "heading": "Yearly Number of Disbursed Loans",
+    "subheading": "The total number of financings disbursed to businesses annually",
+    "note": "Note: The chart illustrates the annual number of financing deals issued"
+  },
+  "features": {
+    "features": [
+      {
+        "title": "0% default rate",
+        "description": "A carefully considered selection process "
+      },
+      {
+        "title": "Regulated Platform",
+        "description": "By Saudi Central Bank"
+      },
+      {
+        "title": "100% Sharia compliant",
+        "description": "Safe & reliable investment opportunities"
+      }
+    ]
+  },
+  "growth": {
+    "heading": "Growth",
+    "description": "With Raqamyah, we provide the necessary funding to achieve your ambitions. Start today on a flexible financing journey, tailored to meet your needs."
+  },
+  "returns": {
+    "heading": "Returns",
+    "description": "With an impressive average annual return of 15.71% in 2024, Raqamyah provides attractive and rewarding investment opportunities for its investors.",
+    "button1": "Annual Returns",
+    "button2": "Risk Category"
+  },
+  "returnsChart": {
+    "heading": "Investors' Average Annual Returns",
+    "subheading": "The total number of financings disbursed to businesses annually",
+    "grossLegend": "Average Gross Investor Return",
+    "investorLegend": "Average Investor Return"
+  },
+  "businessProfile": {
+    "heading": "Business Profile",
+    "description": "Our financing solutions empower SMEs across various industries, creating significant impact in key sectors.",
+    "button1": "Loan Amounts",
+    "button2": "Risk Profile"
+  },
+  "sectorDistributionChart": {
+    "heading": "Sector-Wise Distribution of Disbursed Loan Amounts",
+    "subheading": "This chart illustrates the distribution of our financings across various sectors, summarizing all financings originated in 2022, 2023, and 2024.",
+    "note": "Note: The chart illustrates the annual number of financing deals issued",
+    "sectors": {
+      "technology": "Technology",
+      "telecommunication": "Telecommunication Other Sectors",
+      "automobiles": "Automobiles and Transportation",
+      "construction": "Construction and Engineering",
+      "healthcare": "Health Care",
+      "industrial": "Industrial and Engineering",
+      "foodRetail": "Food and Retail"
+    }
+  },
+  "riskProfile": {
+    "heading": "Risk Profile",
+    "subheading": "Our financing solutions empower SMEs across various industries, creating significant impact in key sectors.",
+    "button1": "Risk Category",
+    "button2": "Repayment Performance",
+    "note": "Note: The default rate is calculated as the total amount defaulted within each risk category divided by the total financing disbursed.",
+    "table": {
+      "heading": "Default Rates Categorized by Risk Category",
+      "subheading": "This chart illustrates the distribution of our financings across various risk profiles, summarizing all financings originated in 2022, 2023, and 2024.",
+      "columns": {
+        "risk": "Risk",
+        "actual": "Actual"
+      },
+      "data": [
+        { "risk": "A", "actual": "0.12%" },
+        { "risk": "B", "actual": "0.00%" },
+        { "risk": "C", "actual": "0.00%" },
+        { "risk": "Total", "actual": "0.12%" }
+      ]
+    }
+  },
+  "menu": {
+    "growth": "Growth",
+    "returns": "Returns",
+    "business": "Business Profile",
+    "risk": "Risk Profile"
+  },
+  "faq": {
+    "data": [
+      { "category": "2022", "value": 50 },
+      { "category": "2023", "value": 120 },
+      { "category": "2024", "value": 200 }
+    ]
+  }
+}

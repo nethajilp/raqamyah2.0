@@ -1,0 +1,224 @@
+{
+  "welcome": "مرحبا بكم في تطبيقنا!",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "scope": {
+    "headingButton": "النطاق",
+    "headingTitle": "اكتشف واستثمر في الفرص المتاحة الان",
+    "headingDescription": "اكتشف مجموعة من الفرص الاستثمارية المصممة لتناسب طموحاتك المالية. ابدأ استثمارك الآن في شركات ذات أداء متميز",
+    "footerButton": "اعرف المزيد",
+    "card": {
+      "header": [
+        {
+          "logo": "investorScopeLogo1",
+          "name": "صندوق الشركات الناشئة التقنية",
+          "issue_members": "12 عضو مشترك",
+          "title": "إجمالي الاستثمار",
+          "total_investment": 30000000.0,
+          "time_until_available": "بعد 5 ساعات",
+          "roi": "العائد على الاستثمار",
+          "return_of_investment": "20.21%",
+          "ar": "العائد السنوي",
+          "annual_return": "19.24%",
+          "durationLabel": "المدة",
+          "duration": "12 شهرًا",
+          "footer": "اعرف المزيد"
+        },
+        {
+          "logo": "investorScopeLogo2",
+          "name": "صندوق الشركات الناشئة في التعليم",
+          "issue_members": "30 عضو مشترك",
+          "title": "إجمالي الاستثمار",
+          "total_investment": 24000000.0,
+          "time_until_available": "بعد 5 ساعات",
+          "roi": "العائد على الاستثمار",
+          "return_of_investment": "22.14%",
+          "ar": "العائد السنوي",
+          "annual_return": "13.21%",
+          "durationLabel": "المدة",
+          "duration": "6 أشهر",
+          "footer": "اعرف المزيد"
+        },
+        {
+          "logo": "investorScopeLogo3",
+          "name": "صندوق العقارات",
+          "issue_members": "12 عضو مشترك",
+          "title": "إجمالي الاستثمار",
+          "total_investment": 70000000.0,
+          "time_until_available": "بعد 5 ساعات",
+          "roi": "العائد على الاستثمار",
+          "return_of_investment": "15.21%",
+          "ar": "العائد السنوي",
+          "annual_return": "12.21%",
+          "durationLabel": "المدة",
+          "duration": "9 أشهر",
+          "footer": "اعرف المزيد"
+        },
+        {
+          "logo": "investorScopeLogo4",
+          "name": "صندوق الشركات الناشئة التقنية",
+          "issue_members": "12 عضو مشترك",
+          "title": "إجمالي الاستثمار",
+          "total_investment": 40000000.0,
+          "time_until_available": "بعد 5 ساعات",
+          "roi": "العائد على الاستثمار",
+          "return_of_investment": "15.21%",
+          "ar": "العائد السنوي",
+          "annual_return": "12.21%",
+          "durationLabel": "المدة",
+          "duration": "9 أشهر",
+          "footer": "اعرف المزيد"
+        }
+      ]
+    },
+    "sectionButton": "عرض جميع الفرص"
+  },
+  "investing": {
+    "headingButton": "الاستثمار",
+    "headingTitle": "نجاح مستمر يعكس ثقة المستثمرين",
+    "card": [
+      {
+        "value": "30M",
+        "label": "أكثر من 30 مليون ريال مستثمر"
+      },
+      {
+        "value": "12k+",
+        "label": "أكثر من 12,000 مستثمر سعيد"
+      },
+      {
+        "value": "3 Month",
+        "label": "استثمارات قصيرة المدى تبدأ من 3 شهور"
+      },
+      {
+        "value": "100%",
+        "label": "عملية آمنة وموثوقة"
+      }
+    ]
+  },
+  "reason": {
+    "headingButton": "لماذا تختارنا؟",
+    "headingTitle": "مزايا الاستثمار مع رقمية",
+    "card": [
+      {
+        "logo": "investorReasonLogo1",
+        "heading": "فرص استثمارية متنوعة",
+        "description": "اختر من بين مجموعة متنوعة من الفرص الاستثمارية التي تشمل شركات ناجحة في مختلف القطاعات الاقتصادية"
+      },
+      {
+        "logo": "investorReasonLogo2",
+        "heading": "سهولة ومرونة في الاستثمار",
+        "description": "منصة رقمية بالكامل تتيح لك البدء في الاستثمار بخطوات بسيطة، مع خيارات تناسب احتياجاتك المالية المختلفة"
+      },
+      {
+        "logo": "investorReasonLogo3",
+        "heading": "عوائد استثمارية مميزة",
+        "description": "استثمر في فرص تتيح لك تحقيق عوائد تنافسية تصل إلى 18% سنوياً، مع سجل تعثر 0% لضمان استثمار آمن ومربح"
+      }
+    ]
+  },
+  "investingGraph": {
+    "headingButton": "الاستثمار",
+    "headingTitle": "اكتشف إمكانيات نمو أموالك",
+    "currency": "ريال سعودي",
+    "data": [
+      {
+        "category": "2018",
+        "value": 8000
+      },
+      {
+        "category": "2019",
+        "value": 10000
+      },
+      {
+        "category": "2020",
+        "value": 12000
+      },
+      {
+        "category": "2021",
+        "value": 14000
+      },
+      {
+        "category": "2022",
+        "value": 16000
+      },
+      {
+        "category": "2023",
+        "value": 18000
+      },
+      {
+        "category": "2024",
+        "value": 20000
+      }
+    ]
+  },
+  "faq": {
+    "headingButton": "الأسئلة المتكررة",
+    "headingTitle": "كل ما تريد معرفته كمستثمر",
+    "data": [
+      {
+        "question": "ما هي نسبة العوائد المتوقعة؟",
+        "answer": "وفقًا لإحصائيات رقميّة، كان متوسط العائد للمستثمرين في عام 2024 يبلغ 15.71%."
+      },
+      {
+        "question": "هل استثمارات رقميّة متوافقة مع الشريعة؟",
+        "answer": "نعم، جميع استثماراتنا متوافقة بنسبة 100% مع مبادئ الشريعة الإسلامية."
+      },
+      {
+        "question": "ما هي مدة الاستثمار؟",
+        "answer": "تقدم رقميّة مدد استثمار تتراوح من 3 إلى 24 شهرًا، حسب طلب التمويل المحدد."
+      },
+      {
+        "question": "كيف أبدأ الاستثمار؟",
+        "answer": "لبدء الاستثمار مع رقميّة، قم بإنشاء حساب على المنصة، قدم الوثائق التعريفية المطلوبة ومعلومات الوظيفة، وأودع الأموال لبدء اختيار فرص الاستثمار."
+      },
+      {
+        "question": "ما هي المخاطر المحتملة للاستثمار؟",
+        "answer": "يحمل الاستثمار مع رقميّة مخاطر فقدان رأس المال بسبب احتمال تعثر الشركات الممولة؛ وللتخفيف من هذه المخاطر، يُوصى بتوزيع الاستثمارات على عدة طلبات تمويل."
+      }
+    ]
+  },
+  "borrowers": {
+    "headingButton": "للمقترضين",
+    "headingTitle": "عزّز نمو أعمالك مع حلول",
+    "headingTitle1": "رقميّة",
+    "headingTitle2": "التمويلية",
+    "headingDescription": "مع رقميّة، نوفر لك التمويل اللازم لتحقيق طموحاتك. ابدأ اليوم برحلة تمويلية مرنة ومصممة خصيصًا لتلبية احتياجاتك",
+    "card": {
+      "clientLogo": [
+        {
+          "logo": "borrowerLogo1"
+        },
+        {
+          "logo": "borrowerLogo2"
+        },
+        {
+          "logo": "borrowerLogo3"
+        },
+        {
+          "logo": "borrowerLogo4"
+        },
+        {
+          "logo": "borrowerLogo5"
+        }
+      ],
+      "header": [
+        {
+          "logo": "Logo1",
+          "title": "7.5 million SAR",
+          "description": "Financing up to 7.5 million SAR."
+        },
+        {
+          "logo": "Logo2",
+          "title": "Edtech Startup Fund",
+          "description": "30 issue member"
+        },
+        {
+          "logo": "Logo3",
+          "title": "Real Estate Fund",
+          "description": "12 issue member"
+        }
+      ]
+    },
+    "sectionButton": "اطلب تمويلك الآن في أقل من 5 دقائق"
+  }
+}

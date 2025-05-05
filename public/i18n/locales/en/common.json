@@ -1,0 +1,224 @@
+{
+  "welcome": "Welcome to our raqamyah! 360",
+  "login": "Login",
+  "logout": "Logout",
+  "scope": {
+    "headingButton": "Available investment opportunities",
+    "headingTitle": "Discover and invest in the available opportunities now",
+    "headingDescription": "Discover a range of investment opportunities designed to match your financial aspirations. Start your investment now in companies with outstanding performance",
+    "footerButton": "Learn More",
+    "card": {
+      "header": [
+        {
+          "logo": "investorScopeLogo1",
+          "name": "Tech Startup Fund",
+          "issue_members": "12 issue member",
+          "title": "Total Investment",
+          "total_investment": 30000000.0,
+          "time_until_available": "After 5 hours",
+          "roi": "Return of Investment",
+          "return_of_investment": "20.21%",
+          "ar": "Annual Return",
+          "annual_return": "19.24%",
+          "durationLabel": "Duration",
+          "duration": "12 Months",
+          "footer": "Learn More"
+        },
+        {
+          "logo": "investorScopeLogo2",
+          "name": "Edtech Startup Fund",
+          "issue_members": "30 issue member",
+          "title": "Total Investment",
+          "total_investment": 24000000.0,
+          "time_until_available": "After 5 hours",
+          "roi": "Return of Investment",
+          "return_of_investment": "22.14%",
+          "ar": "Annual Return",
+          "annual_return": "13.21%",
+          "durationLabel": "Duration",
+          "duration": "6 Months",
+          "footer": "Learn More"
+        },
+        {
+          "logo": "investorScopeLogo3",
+          "name": "Real Estate Fund",
+          "issue_members": "12 issue member",
+          "title": "Total Investment",
+          "total_investment": 70000000.0,
+          "time_until_available": "After 5 hours",
+          "roi": "Return of Investment",
+          "return_of_investment": "15.21%",
+          "ar": "Annual Return",
+          "annual_return": "12.21%",
+          "durationLabel": "Duration",
+          "duration": "9 Months",
+          "footer": "Learn More"
+        },
+        {
+          "logo": "investorScopeLogo4",
+          "name": "Tech Startup Fund",
+          "issue_members": "12 issue member",
+          "title": "Total Investment",
+          "total_investment": 40000000.0,
+          "time_until_available": "After 5 hours",
+          "roi": "Return of Investment",
+          "return_of_investment": "15.21%",
+          "ar": "Annual Return",
+          "annual_return": "12.21%",
+          "durationLabel": "Duration",
+          "duration": "9 Months",
+          "footer": "Learn More"
+        }
+      ]
+    },
+    "sectionButton": "Browse the opportunities now"
+  },
+  "investing": {
+    "headingButton": "Investing",
+    "headingTitle": "Continuous success reflecting investor trust",
+    "card": [
+      {
+        "value": "30M",
+        "label": "Over 30 million SAR invested"
+      },
+      {
+        "value": "12k+",
+        "label": "Over 12,000  happy investors"
+      },
+      {
+        "value": "3 Months",
+        "label": "Short-term investments starting from 3 months"
+      },
+      {
+        "value": "100%",
+        "label": "A safe and reliable process"
+      }
+    ]
+  },
+  "reason": {
+    "headingButton": "Reasons to choose raqamyah",
+    "headingTitle": "Advantages of investing with Raqamyah",
+    "card": [
+      {
+        "logo": "investorReasonLogo1",
+        "heading": "Diverse investment opportunities",
+        "description": "Choose from a variety of investment opportunities, including successful companies across different economic"
+      },
+      {
+        "logo": "investorReasonLogo2",
+        "heading": "Ease and flexibility in investing",
+        "description": "A fully digital platform that allows you to start investing with simple steps, offering options that cater to your diverse financial "
+      },
+      {
+        "logo": "investorReasonLogo3",
+        "heading": "Exceptional investment returns",
+        "description": "Invest in opportunities that offer competitive returns of up to 18% annually, with a 0% default rate, ensuring a safe and profitable "
+      }
+    ]
+  },
+  "investingGraph": {
+    "headingButton": "Investing",
+    "headingTitle": "Discover the potential for your money to grow",
+    "currency": "SAR",
+    "data": [
+      {
+        "category": "2018",
+        "value": 8000
+      },
+      {
+        "category": "2019",
+        "value": 10000
+      },
+      {
+        "category": "2020",
+        "value": 12000
+      },
+      {
+        "category": "2021",
+        "value": 14000
+      },
+      {
+        "category": "2022",
+        "value": 16000
+      },
+      {
+        "category": "2023",
+        "value": 18000
+      },
+      {
+        "category": "2024",
+        "value": 20000
+      }
+    ]
+  },
+  "faq": {
+    "headingButton": "Faq",
+    "headingTitle": "Everything you need to know as an investor",
+    "data": [
+      {
+        "question": "What is the expected return rate?",
+        "answer": "According to Raqamyah's statistics, the average return for investors in 2024 was 15.71%."
+      },
+      {
+        "question": "Are Raqamyah's investments shariah-compliant?",
+        "answer": "Yes, all of our investments are 100% compliant with Islamic Shariah principles"
+      },
+      {
+        "question": "What is the investment duration?",
+        "answer": "Raqamyah offers investment durations ranging from 3 to 24 months, depending on the specific financing request."
+      },
+      {
+        "question": "How do I start investing?",
+        "answer": "To start investing with Raqamyah, create an account on their platform, provide the necessary identification and employment details, and deposit funds to begin selecting investment opportunities."
+      },
+      {
+        "question": "What are the potential risks of investent?",
+        "answer": "Investing in Raqamyah carries the risk of capital loss due to potential defaults by financed businesses; to mitigate this, it's recommended to diversify investments across multiple financing requests."
+      }
+    ]
+  },
+  "borrowers": {
+    "headingButton": "Support Your Growth With Our Financing Solutions",
+    "headingTitle": "Boost Your business growth with",
+    "headingTitle1": "Raqamyah's",
+    "headingTitle2": "financial solutions",
+    "headingDescription": "With Raqamyah, We provide the necessary funding to achieve your ambitions. Start today on a flexible financing journey, tailored to meet your needs.",
+    "card": {
+      "clientLogo": [
+        {
+          "logo": "borrowerLogo1"
+        },
+        {
+          "logo": "borrowerLogo2"
+        },
+        {
+          "logo": "borrowerLogo3"
+        },
+        {
+          "logo": "borrowerLogo4"
+        },
+        {
+          "logo": "borrowerLogo5"
+        }
+      ],
+      "header": [
+        {
+          "logo": "Logo1",
+          "title": "7.5 million SAR",
+          "description": "Financing up to 7.5 million SAR."
+        },
+        {
+          "logo": "Logo2",
+          "title": "Edtech Startup Fund",
+          "description": "30 issue member"
+        },
+        {
+          "logo": "Logo3",
+          "title": "Real Estate Fund",
+          "description": "12 issue member"
+        }
+      ]
+    },
+    "sectionButton": "Request Your Financing Now In Less than 5 Minutes"
+  }
+}

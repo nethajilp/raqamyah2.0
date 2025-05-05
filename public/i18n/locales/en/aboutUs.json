@@ -1,0 +1,115 @@
+{
+  "banner": {
+    "heading": "ABOUT US",
+    "title1": "Raqamyah Your",
+    "highlighted": "Trusted",
+    "title2": "Financial Partner",
+    "description": "At Raqamyah, we believe that financing is more than just numbers. We focus on building effective connections between investors and SMES, with a commitment to transparency and quality.",
+    "button": "GET STARTED"
+  },
+  "whoWeAre": {
+    "heading": "WHO WE ARE",
+    "list": [
+      {
+        "heading": "The impact of Raqamyah in Supporting Successful Businesses",
+
+        "subpoints": [
+          {
+            "points": "We have funded over 100 companies to achieve their financial goals."
+          },
+          {
+            "points": "Companies across various sectors, including trade, services, and industry, have benefited from our financing to grow their businesses."
+          },
+          {
+            "points": "We strive to provide financing that makes a real difference in the lives of entrepreneurs and their communities."
+          }
+        ],
+        "image": "whowearegraph1"
+      },
+      {
+        "heading": "An effective link between investors and small to medium-sized enterprises",
+        "description": "At Raqamyah, we connect investors seeking attractive returns with businesses looking for funding to drive their growth. Our digital platform makes the financing process easier and more transparent for everyone.",
+        "subpoints": [],
+        "image": "whowearegraph2"
+      },
+      {
+        "heading": "Transparency is the foundation for achieving success",
+        "description": "We believe that transparency is key to building trust with our partners. From financing terms to return details, we ensure complete clarity at every step.",
+        "subpoints": [],
+        "image": "whowearegraph3"
+      }
+    ]
+  },
+  "ourVision": {
+    "heading": "APPROACH",
+    "description": "Our Vision And Approach",
+    "card": [
+      {
+        "logo": "icon1",
+        "heading": "Leveraging technology to simplify processes",
+        "description": "Explore a variety of investment choices, including startups and other promising ventures."
+      },
+      {
+        "logo": "icon2",
+        "heading": "Transparent financing and investments",
+        "description": "Choose from short-term, medium-term, or long-term investment options for your financial goals."
+      },
+      {
+        "logo": "icon3",
+        "heading": "Carefully selecting companies for quality",
+        "description": "Benefit from our team of professionals who carefully select investment opportunities."
+      }
+    ]
+  },
+  "ourTeam": {
+    "heading": "OUR TEAM",
+    "subHeading": "Meet the Board of Directors",
+    "subHeading2": "Supporting Successful Businesse",
+    "description": "We are led by a team of experts and entrepreneurs with extensive experience in finance and investment. The Board of Directors plays a key role in shaping the strategic vision that strengthens Raqamyah's position as a trusted financing platform.",
+    "description2": "Through our innovative financing solutions, we help SMEs achieve their ambitions and reach their full potential. Raqamyah is not just a financing platform",
+    "memebers": [
+      {
+        "id": 1,
+        "name": "Ammar Bakhit",
+        "role": "CEO & Board Member",
+        "image": "member1"
+      },
+      {
+        "id": 2,
+        "name": "Basma Al-Sunaydi",
+        "role": "Board Member",
+        "image": "member2"
+      },
+      {
+        "id": 3,
+        "name": "Hussam Al-Huqail",
+        "role": "Chairman of the Board",
+        "image": "member3"
+      },
+      {
+        "id": 4,
+        "name": "Ammar Bakhit",
+        "role": "Board Member",
+        "image": "member4"
+      },
+      {
+        "id": 5,
+        "name": "Ziad Al-Tunisi",
+        "role": "Board Member",
+        "image": "member5"
+      },
+      {
+        "id": 6,
+        "name": "Taha Azhari",
+        "role": "Board Member",
+        "image": "member6"
+      }
+    ]
+  },
+  "clientLogo": {
+    "trusted": "Trusted by",
+    "investorCount": "1K+ Investors",
+    "conjunction": "and",
+    "borrowerCount": "20K+ Borrowers"
+  }
+}

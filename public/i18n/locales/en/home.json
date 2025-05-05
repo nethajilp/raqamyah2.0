@@ -1,0 +1,106 @@
+{
+  "herosection": {
+    "title": "Turning Achievements into Returns",
+    "heading": "Investment made easy with",
+    "subheading": "growth-driven",
+    "body": "Raqamyah offers secure investment opportunities with returns of up to 18%, while supporting businesses’ growth and sustainability.",
+    "button": "INVEST NOW",
+    "button2": "REQUEST YOUR FINANCING NOW"
+  },
+  "about": {
+    "heading": "About Us",
+    "description1": "A financial Vision built on success",
+    "description2": {
+      "at": "At",
+      "raqamyah": "Raqamyah",
+      "part1": "we select funded companies based on solid financial foundations to ensure sustainable investment opportunities. We exclusively finance companies that have demonstrated their ability to achieve stable revenues and growing profits,",
+      "highlighted": "making us a trusted choice for both investors and business owners seeking quick and convenient financing."
+    },
+    "cards": [
+      {
+        "heading": "0% default rate",
+        "description": "A carefully considered selection process ",
+        "image": "vector"
+      },
+      {
+        "heading": "Regulated Platform",
+        "description": "By Saudi Central Bank",
+        "image": "bank"
+      },
+      {
+        "heading": "100% Sharia compliant",
+        "description": "Safe & reliable investment opportunities",
+        "image": "sparkle"
+      }
+    ]
+  },
+  "financial": {
+    "heading": "Financial Solutions",
+    "subheading": "Empowering your financial future",
+    "investor": {
+      "type": "For INVESTORS",
+      "title": "Boost Your Earnings",
+      "description": "We offer you high-return investment opportunities with profits of up to 18% by connecting you with carefully selected, high-performing companies. Invest now with ease and confidence to secure your financial future.",
+      "button": "LEARN MORE"
+    },
+    "borrower": {
+      "type": "FOR BORROWERS",
+      "title": "Fuel Your Growth",
+      "description": "At Raqamyah, we make it easy for small and medium-sized businesses to access the financing they need through a fully digital experience. Get fast funding to support your growth without any hassle.",
+      "button": "APPLY FOR FUNDING"
+    }
+  },
+  "howitworks": {
+    "heading": "How It Works",
+    "description": "How our financial solutions work",
+    "businessapplies": {
+      "title": "Business applies for finance",
+      "description": "Complete your application online"
+    },
+    "approvedbusiness": {
+      "title": "Approved Business listed on our platform",
+      "description": "Our team studies your business. We get back to you with a firm "
+    },
+    "investorfund": {
+      "title": "Investor funds finance request",
+      "description": "Individual and Institutional Investors finance your company"
+    },
+    "investorreceive": {
+      "title": "Investors receive profits",
+      "description": "Investors start receiving their principal and profits"
+    }
+  },
+  "fuelyourgrowth": {
+    "heading": "Fuel Your Growth with Crowdfunding!",
+    "description": "At Raqamyah, investors and businesses both thrive. Investors enjoy secure, high-growth opportunities, while borrowers gain access to fast, affordable financing.",
+    "button": "START INVESTING"
+  },
+  "shariah": {
+    "title": "SHARIAH-COMPLIANT",
+    "discription": "Sharia-compliant financing & investment solutions",
+    "button": "Certified by the Shariyah"
+  },
+  "blog": {
+    "title": "Blogs",
+    "discription": "Blog updates",
+    "blog1Heading": "FINANCIAL SOLUTION",
+    "blog1Time": "6 min",
+    "blog1Description": "Maximizing Returns with Debt Crowdfunding: A Guide for Smart Investors",
+    "blog2Heading": "FINANCIAL SOLUTION",
+    "blog2Time": "6 min",
+    "blog2Description": "How Debt Crowdfunding Empowers Small Businesses: Fast, Flexible Financing.",
+    "blog3Heading": "FINANCIAL SOLUTION",
+    "blog3Time": "6 min",
+    "blog3Description": "Private Debt: A Rising Star in Alternative Investments"
+  },
+  "testimonials": {
+    "heading": "Testimonials",
+    "description": "Our customer says"
+  },
+  "clientLogo": {
+    "trusted": "Trusted by",
+    "investorCount": "1K+ Investors",
+    "conjunction": "and",
+    "borrowerCount": "20K+ Borrowers"
+  }
+}

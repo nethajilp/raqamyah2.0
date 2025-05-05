@@ -1,0 +1,127 @@
+{
+  "banner": {
+    "heading": "Finance SMEs for attractive returns",
+    "title": "Raqamyah, your first step toward a successful",
+    "highlighted": "investment",
+    "description": "With Raqamyah, we open the door to investing in promising funding opportunities with returns of up to 18%. We connect you with exceptional companies to start your investment journey with confidence and ease.",
+    "button": "Start your investment now"
+  },
+  "client": {
+    "heading": "A Business community powered by Raqamyah",
+    "cards": [
+      {
+        "title": "7.5 million SAR",
+        "description": "Raqamyah is a platform licensed by the Saudi Central Bank"
+      },
+      {
+        "title": "Saudi Central Bank",
+        "description": "Raqamyah is a platform licensed by the Saudi Central Bank"
+      },
+      {
+        "title": "Islamic Shariah",
+        "description": "Raqamyah is a platform licensed by the Saudi Central Bank"
+      }
+    ]
+  },
+  "crowdFunding": {
+    "heading": "Invest through crowdfunding",
+    "body": "Crowdfunding is an innovative investment model that allows you to contribute to funding exceptional companies and achieve impressive returns. With Raqamyah, you invest with confidence and transparency in companies that generate stable profits and revenues.",
+    "button": "Invest in financing"
+  },
+  "howItWorks": {
+    "heading": "EXPLORE THE PROCESS OF GETTING LOAN",
+    "subHeading": "3 easy steps to get your financing",
+    "singup": {
+      "heading": "Submit your application now",
+      "description": "Fill out the financing application in minutes through our digital platform"
+    },
+    "rightOpportunity": {
+      "heading": "Get your approval",
+      "description": "We quickly review your application based on your financial information"
+    },
+    "investment": {
+      "heading": "Receive your financing",
+      "description": "Once approved and the opportunity is fully funded by investors, the amount will be transferred directly to your bank account"
+    },
+    "button": "Apply for loan"
+  },
+  "whyRaqamyah": {
+    "subHeading": "● REASONS TO CHOOSE RAQAMYAH",
+    "heading": "Why Raqamyah is your ideal partner for success",
+    "features": [
+      {
+        "title": "Flexible and easy terms",
+        "description": "We offer flexible financing terms that align with your company's needs, helping you achieve your goals without complications."
+      },
+      {
+        "title": "A fully digital process",
+        "description": "From application to receiving financing, all steps are completed through our digital platform with ease and speed"
+      },
+      {
+        "title": "Shariah-compliant ",
+        "description": "We offer financing solutions that are fully compliant with Islamic Shariah principles and licensed by the Saudi Central Bank, "
+      }
+    ]
+  },
+  "fuelyourgrowth": {
+    "heading": "Accelerate the growth of your business with Raqamyah",
+    "description": "Benefit from our innovative financing solutions to expand your business and achieve your goals, with the assurance of an easy and fast digital experience.",
+    "button": "START YOUR FINANCING JOURNEY NOW"
+  },
+  "financingPrices": {
+    "financingRate": "Financing Rate",
+    "detailsOfFinancingProductPrices": "Details of Financing Product Prices",
+    "table": {
+      "headers": {
+        "product": "Product",
+        "annualPercentageRate": "Annual Percentage Rate",
+        "administrativeFees": "Administrative Fees"
+      },
+      "rows": [
+        {
+          "product": "Invoice Financing",
+          "annualPercentageRate": "11% - 13.5%",
+          "administrativeFees": "2% - 5%"
+        },
+        {
+          "product": "Inventory Financing",
+          "annualPercentageRate": "2% - 5%",
+          "administrativeFees": "11% - 13.5%"
+        }
+      ]
+    },
+    "note": "Note",
+    "noteContent": "Please note that the financing cost at Raqamyah is linked to the client's credit rating, as well as the duration and amount of the financing, and is not based on the product. For clarification, the table above shows the approximate fees for the platform, which may vary according to the applicable SIBOR rates."
+  },
+
+  "faq": {
+    "headingButton": "Faq",
+    "headingTitle": "Everything you need to know about financing",
+    "data": [
+      {
+        "question": "What are the eligibility criteria for obtaining financing?",
+        "answer": "According to Raqamyah's statistics, the average return for investors in 2024 was 15.71%. According to Raqamyah's statistics, the average return for investors in 2024 was 15.71%."
+      },
+      {
+        "question": "How long does it take to get financing?",
+        "answer": "All of our financing solutions are 100% Shariah-compliant."
+      },
+      {
+        "question": "Is the financing Shariah-compliant?",
+        "answer": "All of our financing solutions are 100% Shariah-compliant."
+      },
+      {
+        "question": "What are the fees associated with the financing?",
+        "answer": "All of our financing solutions are 100% Shariah-compliant."
+      },
+      {
+        "question": "Can I repay the financing early?",
+        "answer": "All of our financing solutions are 100% Shariah-compliant."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "All of our financing solutions are 100% Shariah-compliant."
+      }
+    ]
+  }
+}

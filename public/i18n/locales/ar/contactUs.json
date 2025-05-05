@@ -1,0 +1,16 @@
+{
+  "banner": {
+    "label": "اتصل بنا",
+    "heading": "دعونا نتواصل وننمو معًا!"
+  },
+  "infoCard": {
+    "officeTimeTitle": "ساعات العمل",
+    "officeTimeText": "الأحد–الخميس من 9 صباحًا إلى 5 مساءً",
+    "emailTitle": "البريد الإلكتروني",
+    "emailText": "contactus@raqamyah.com",
+    "contactTitle": "اتصل بنا",
+    "contactText": "8001000264",
+    "locationTitle": "الموقع",
+    "locationText": "منصة رقميّة، 3252 الأمير محمد بن عبد العزيز، مركز الدغيثر التجاري رقم 2، العليا، الرياض 12241-6231"
+  }
+}

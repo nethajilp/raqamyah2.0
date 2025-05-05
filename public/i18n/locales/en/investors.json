@@ -1,0 +1,48 @@
+{
+  "banner": {
+    "heading": "Finance SMEs for attractive returns",
+    "title": "Raqamyah, your first step toward a successful",
+    "highlighted": "investment",
+    "description": "With Raqamyah, we open the door to investing in promising funding opportunities with returns of up to 18%. We connect you with exceptional companies to start your investment journey with confidence and ease.",
+    "button": "Start your investment now"
+  },
+  "client": {
+    "heading": "A Trusted Choice for Investors",
+    "cards": [
+      {
+        "title": "Over 30 million SAR invested",
+        "description": "Investor trust speaks for itself, with investments exceeding 30 million SAR"
+      },
+      {
+        "title": "Licensed by the Saudi Central Bank",
+        "description": "Raqamyah is a platform licensed by the Saudi Central Bank, ensuring a safe "
+      },
+      {
+        "title": "Compliant with Islamic Shariah",
+        "description": "Invest with confidence according to Islamic Shariah principles and rest assured "
+      }
+    ]
+  },
+  "crowdFunding": {
+    "heading": "Smart Investing Starts with Confidence",
+    "body": "Crowdfunding is an innovative investment model that allows you to contribute to funding exceptional companies and achieve impressive returns. With Raqamyah, you invest with confidence and transparency in companies that generate stable profits and revenues.",
+    "button": "Invest in financing"
+  },
+  "howItWorks": {
+    "heading": "Explore the process of investment",
+    "subHeading": "Simple steps to start your investment",
+    "singup": {
+      "heading": "Sign up on the platform",
+      "description": "Register in minutes through our fully digital platform"
+    },
+    "rightOpportunity": {
+      "heading": "Choose the right opportunity",
+      "description": "Browse the available investment opportunities and choose the one that best suits your financial plans"
+    },
+    "investment": {
+      "heading": "Reap the rewards of your investment",
+      "description": "Once the investment is completed, Raqamyah deposits the amount into the account of the funding-requesting entity. Upon repayment on the specified date, Raqamyah returns your principal along with your profits."
+    },
+    "button": "Start your investment now"
+  }
+}
