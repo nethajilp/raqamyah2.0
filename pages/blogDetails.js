@@ -6,7 +6,7 @@ const SEO = React.lazy(() => import("./seo"));
 const BlogDetailsBanner = React.lazy(() => import("./blogDetails/BlogDetailsBanner"));
 const BlogGrowth = React.lazy(() => import("./blogDetails/BlogGrowth"));
 const BlogTrade = React.lazy(() => import("./blogDetails/BlogTrade"));
-const BlogCost = React.lazy(() => import("./blogDetails/BlogCost"));
+const BlogCostSection = React.lazy(() => import("./blogDetails/BlogCost"));
 const BlogRelated = React.lazy(() => import("./blogDetails/BlogRelated"));
 
 
@@ -97,7 +97,7 @@ export default function BlogDetailsPage() {
             },
           }}
         >
-          <BlogCost />
+          <BlogCostSection />
         </Container>
       </Box>
 
